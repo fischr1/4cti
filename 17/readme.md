@@ -1,6 +1,6 @@
 # Where is person on the world
 
-## _contractor: Mateusz Grajewski
+## _contractor: Jakub Rysz
 ## _principal: Michał Czerwiński_
 
 | dossier version | date |
