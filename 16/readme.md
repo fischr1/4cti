@@ -70,4 +70,4 @@ Dillinger uses a number of open source projects to work properly:
 
  [form]: <https://github.com/Michal3456/4cti/blob/main/16/sprites/template.PNG>
  
- [db]: <https://github.com/Michal3456/4cti/blob/main/16/sprites/Untitled%20Diagram.jpg>
+ [db]: <https://github.com/Michal3456/4cti/blob/main/16/sprites/Untitled%20Diagram.drawio.png>
