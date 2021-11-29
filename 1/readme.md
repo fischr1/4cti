@@ -8,6 +8,7 @@
 | ------ | ------ | ------ |
 | 1.0 | 17.11.2021 | none |
 | 1.1 | 26.11.2021 | creating template |
+| 1.2 | 29.11.2021 | database with only tables - sketch a database without establishing a relationship |
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
