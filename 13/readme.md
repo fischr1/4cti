@@ -1,4 +1,4 @@
-# Pseudofriend
+# Pseudo Friend
 
 ## _contractor: Paweł Ługowski_
 ## _principal: Michał Czerwiński_
@@ -6,24 +6,25 @@
 
 | dossier version | date | description |
 | ------ | ------ | ------ |
-| 1.0 | 28.11.2021 | none |
+| 1.0 | 29.11.2021 | none |
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
 ## Abstract 
-Project is an interactive friend which you can talk to. You need to go straight on the project site, click "Chat" and write!
+The project is a bot which you can talk to.
 
 ## Data structure
 
 | data | type |
 | ------ | ------ |
 | INPUT | messages to bot |
-| OUTPUT | answers to messages |
+| OUTPUT | messages from bot to you|
 
 ## Main functionalities
 
-1. Finish look is created in HTML and CSS.
-2. back-end executed in PHP language and auxiliary scripts
+1. relational database based on SQL language
+1. frot-end created in JavaScript and CSS technologies
+1. back-end executed in PHP language and auxiliary scripts
 
 The above functionalities are tested and work according to their roles.
 
