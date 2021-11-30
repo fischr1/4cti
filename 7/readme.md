@@ -1,4 +1,4 @@
-# CKZiU game aka Clicker
+# CKZiU game 
 
 ## _contractor: Karol Kamiński_
 ## _principal: Michał Czerwiński_
@@ -12,13 +12,13 @@
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
 ## Abstract 
-The project shows game based on CKZiU topic, game is a simple clicker with school design. CKZiU game will show different arenas as school classrooms, buildings and other characteristic things in CKZiU school.
+The project shows game based on CKZiU topic, game is similiar to Chrome dino. Game will have some CKZiU design.
 
 ## Data structure
 
 | data | type |
 | ------ | ------ |
-| INPUT | Mouse Clicks |
+| INPUT | NONE |
 | OUTPUT | Game with CKZIU topic|
 
 ## Main functionalities
