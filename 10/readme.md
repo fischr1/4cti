@@ -59,4 +59,4 @@ Dillinger uses a number of open source projects to work properly:
 
 [link to layout][form]
  
- [form]: <https://github.com/Michal3456/example_project/blob/main/sprites/Untitled%20Diagram.drawio(2).png>
+ [form]: https://github.com/Michal3456/4cti/blob/main/10/Untitled%20Diagram.png
