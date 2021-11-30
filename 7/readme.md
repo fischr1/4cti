@@ -7,8 +7,9 @@
 | dossier version | date | description |
 | ------ | ------ | ------ |
 | 1.0 | 17.11.2021 | none |
-| 1.1 | 26.11.2021 | creating database |
-| 1.2 | 29.11.2021 | sketch of database |
+| 1.1 | 26.11.2021 | creating template |
+| 1.2 | 29.11.2021 | database with only tables - sketch a database without establishing a relationship |
+| 1.3 | 30.11.2021 | creating orgchart |
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
