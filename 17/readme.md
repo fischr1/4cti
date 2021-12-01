@@ -37,5 +37,14 @@ The project aims to list the exact location of the selected person at a given ti
 - [SQL]
 - [MySql]
 - [Apache]
-
  [erd]: <https://github.com/Michal3456/example_project/blob/main/sprites/Untitled%20Diagram.jpg>
+## Layout for form in HTML
+
+[link to layout][form]
+
+## Sketch a database without establishing a relationship
+
+[link to sketch a database][db]
+
+[form]: <https://github.com/Michal3456/4cti/blob/main/17/sprites/database.drawio.png>
+[db]: <https://github.com/Michal3456/4cti/blob/main/17/sprites/database.drawio.png>
