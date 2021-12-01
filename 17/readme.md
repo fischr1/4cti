@@ -1,4 +1,4 @@
-# Where is person on the world
+# 
 
 ## _contractor: Jakub Rysz
 ## _principal: Michał Czerwiński_
