@@ -8,6 +8,7 @@
 | ------ | ------ | ------ |
 | 1.0 | 26.11.2021 | none |
 |1.1| 26.11.2021 | template |
+|1.2|01.11.2021|sketch|
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
@@ -59,4 +60,9 @@ Dillinger uses a number of open source projects to work properly:
 
 [link to layout][form]
  
- [form]: https://github.com/Michal3456/4cti/blob/main/10/Untitled%20Diagram.png
+ [form]: https://github.com/Michal3456/4cti/blob/main/10/sprites/Untitled%20Diagram.png
+ 
+ ## Sketch a database without establishing a relationship
+
+[link to sketch a database][db]
+ [db]: https://github.com/Michal3456/4cti/blob/main/10/sprites/Diagram(4).PNG
